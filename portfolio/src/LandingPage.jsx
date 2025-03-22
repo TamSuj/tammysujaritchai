@@ -27,7 +27,7 @@ function LandingPage() {
                     <div className=" text-gray-700 mt-4">
                         <p className="p-1">🎓 CS & Ling @UCLA</p>
                         <p className="p-1">❤️ Tech + social impact</p>
-                        <p className="p-1">✏️ Incoming SWE Intern @ LinkedIn, Uber</p>
+                        <p className="p-1">✏️ I write code that doesn’t just run, but makes a difference</p>
                     </div>
                 </div>
             </div>
